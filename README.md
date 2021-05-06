@@ -1,0 +1,2 @@
+# sedz-VPN
+Best VPN
